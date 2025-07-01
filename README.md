@@ -3,8 +3,7 @@
 Project ini adalah form login animasi glowing dengan efek futuristik yang dibuat menggunakan **HTML**, **CSS**, dan **JavaScript**.
 
 ### 📸 Preview
-![Preview]([https://user-images.githubusercontent.com/your-image-link.png](https://res.cloudinary.com/doblyl2yi/image/upload/v1751338659/WhatsApp_Image_2025-07-01_at_09.54.21_iji27o.jpg))
-> (Opsional: Ganti link gambar preview jika ada)
+![Preview](https://res.cloudinary.com/doblyl2yi/image/upload/v1751338659/WhatsApp_Image_2025-07-01_at_09.54.21_iji27o.jpg)
 
 ---
 
