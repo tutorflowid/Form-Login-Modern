@@ -32,7 +32,7 @@ Project ini adalah form login animasi glowing dengan efek futuristik yang dibuat
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/tutorflowid/Form-Login-Modern.git
 Buka file index.html di browser favorit kamu.
 
 🛠️ Teknologi yang Digunakan
